@@ -345,19 +345,19 @@ The following six visualizations summarize important findings from the EDA. Save
 
 This histogram illustrates the distribution of advertised vehicle prices and helps reveal skewness and the presence of high-priced listings.
 
-![Vehicle Price Distribution](images/price_distribution.png)
+![Distribution of Vehicle Prices](images/Distribution_Vehicle_Prices.png)
 
 ### 2. Vehicle Price Outliers
 
 This box plot summarizes the distribution of vehicle prices using the median, quartiles, and potential outliers.
 
-![Vehicle Price Box Plot](images/price_boxplot.png)
+![Vehicle Price Box Plot](images/Box%20Plot.png)
 
 ### 3. Top 10 Manufacturers by Number of Listings
 
 This bar chart compares listing counts across the most frequently represented manufacturers in the analyzed subset.
 
-![Top Manufacturers](images/top_manufacturers.png)
+![Top 10 Vehicle Manufacturers](images/Top%2010%20Vehicle%20Manufacturers.png)
 
 ### 4. Vehicle Mileage Distribution
 
@@ -369,7 +369,7 @@ This histogram illustrates the distribution of odometer readings and helps ident
 
 This scatter plot investigates the relationship between odometer readings and advertised prices. The analyzed subset has a correlation coefficient of approximately -0.403.
 
-![Vehicle Price vs Odometer](images/price_vs_odometer.png)
+![Vehicle Price vs Odometer Reading](images/Vehicle%20Price%20vs%20Odometer%20Reading.png)
 
 ### 6. Correlation Heatmap
 
@@ -377,7 +377,7 @@ The heatmap visualizes the correlations among price, model year, odometer readin
 
 It highlights the negative relationship between price and odometer reading, as well as the mathematically linked relationship between model year and vehicle age.
 
-![Vehicle Dataset Correlation Heatmap](images/Vehicle Dataset Correlation Heatmap.png)
+![Vehicle Dataset Correlation Heatmap](images/Vehicle%20Dataset%20Correlation%20Heatmap.png)
 
 ---
 
