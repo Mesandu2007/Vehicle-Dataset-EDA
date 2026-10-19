@@ -377,7 +377,7 @@ The heatmap visualizes the correlations among price, model year, odometer readin
 
 It highlights the negative relationship between price and odometer reading, as well as the mathematically linked relationship between model year and vehicle age.
 
-![Vehicle Dataset Correlation Heatmap](images/correlation_heatmap.png)
+![Vehicle Dataset Correlation Heatmap](images/Vehicle Dataset Correlation Heatmap.png)
 
 ---
 
